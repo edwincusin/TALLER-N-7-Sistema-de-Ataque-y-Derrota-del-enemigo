@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 6086511519658834f8e734f610dc2864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5988192070273586573
+    second: Sprite de moneda dorada giratoria_0
+  - first:
+      213: -5662673923593065001
+    second: Sprite de moneda dorada giratoria_1
+  - first:
+      213: 5843217068706513222
+    second: Sprite de moneda dorada giratoria_2
+  - first:
+      213: -2014180044113002599
+    second: Sprite de moneda dorada giratoria_3
+  - first:
+      213: -315957600857239426
+    second: Sprite de moneda dorada giratoria_4
+  - first:
+      213: -956106752743589000
+    second: Sprite de moneda dorada giratoria_5
+  - first:
+      213: -5730398358248055130
+    second: Sprite de moneda dorada giratoria_6
+  - first:
+      213: 9221786463291944801
+    second: Sprite de moneda dorada giratoria_7
+  - first:
+      213: 3557989645881151864
+    second: Sprite de moneda dorada giratoria_8
+  - first:
+      213: 2599768039511665791
+    second: Sprite de moneda dorada giratoria_9
+  - first:
+      213: 5576724368121841092
+    second: Sprite de moneda dorada giratoria_10
+  - first:
+      213: 8167210663223227526
+    second: Sprite de moneda dorada giratoria_11
+  - first:
+      213: 2367188907463102153
+    second: Sprite de moneda dorada giratoria_12
+  - first:
+      213: -7434875661800556675
+    second: Sprite de moneda dorada giratoria_13
+  - first:
+      213: 8217240362271596674
+    second: Sprite de moneda dorada giratoria_14
+  - first:
+      213: 8970263567117692466
+    second: Sprite de moneda dorada giratoria_15
+  - first:
+      213: -2141416048162080326
+    second: Sprite de moneda dorada giratoria_16
+  - first:
+      213: 4387674781303308296
+    second: Sprite de moneda dorada giratoria_17
+  - first:
+      213: 536293487222134708
+    second: Sprite de moneda dorada giratoria_18
+  - first:
+      213: 7091324438170046812
+    second: Sprite de moneda dorada giratoria_19
+  - first:
+      213: 925551649485189650
+    second: Sprite de moneda dorada giratoria_20
+  - first:
+      213: -1176517926186028873
+    second: Sprite de moneda dorada giratoria_21
+  - first:
+      213: 11537751139112756
+    second: Sprite de moneda dorada giratoria_22
+  - first:
+      213: 6529097022369306730
+    second: Sprite de moneda dorada giratoria_23
+  - first:
+      213: 2256231112501391196
+    second: Sprite de moneda dorada giratoria_24
+  - first:
+      213: 2195680240644360612
+    second: Sprite de moneda dorada giratoria_25
+  - first:
+      213: 5444136648297516236
+    second: Sprite de moneda dorada giratoria_26
+  - first:
+      213: -7510030247752885418
+    second: Sprite de moneda dorada giratoria_27
+  - first:
+      213: -7470496821711891384
+    second: Sprite de moneda dorada giratoria_28
+  - first:
+      213: 5450984073763470123
+    second: Sprite de moneda dorada giratoria_29
+  - first:
+      213: -1200640905822215102
+    second: Sprite de moneda dorada giratoria_30
+  - first:
+      213: 2967216690197770697
+    second: Sprite de moneda dorada giratoria_31
+  - first:
+      213: 2822212862087023302
+    second: Sprite de moneda dorada giratoria_32
+  - first:
+      213: 9122930239925042566
+    second: Sprite de moneda dorada giratoria_33
+  - first:
+      213: -8114213533183126251
+    second: Sprite de moneda dorada giratoria_34
+  - first:
+      213: -5467968681088778030
+    second: Sprite de moneda dorada giratoria_35
+  - first:
+      213: 3066129257499459099
+    second: Sprite de moneda dorada giratoria_36
+  - first:
+      213: 8123132258094778496
+    second: Sprite de moneda dorada giratoria_37
+  - first:
+      213: 3207392290602651566
+    second: Sprite de moneda dorada giratoria_38
+  - first:
+      213: -4666136736642359659
+    second: Sprite de moneda dorada giratoria_39
+  - first:
+      213: -4604647275503899887
+    second: Sprite de moneda dorada giratoria_40
+  - first:
+      213: 4343374720415326376
+    second: Sprite de moneda dorada giratoria_41
+  - first:
+      213: 2613697547788807363
+    second: Sprite de moneda dorada giratoria_42
+  - first:
+      213: -1565072883088661121
+    second: Sprite de moneda dorada giratoria_43
+  - first:
+      213: -8264977331831677970
+    second: Sprite de moneda dorada giratoria_44
+  - first:
+      213: 8402868575868540048
+    second: Sprite de moneda dorada giratoria_45
+  - first:
+      213: -5572727768076108509
+    second: Sprite de moneda dorada giratoria_46
+  - first:
+      213: 8099772891117577755
+    second: Sprite de moneda dorada giratoria_47
+  - first:
+      213: 1077750263274071203
+    second: Sprite de moneda dorada giratoria_48
+  - first:
+      213: 4791129385846769882
+    second: Sprite de moneda dorada giratoria_49
+  - first:
+      213: -2878974413518291070
+    second: Sprite de moneda dorada giratoria_50
+  - first:
+      213: 7132370492766040843
+    second: Sprite de moneda dorada giratoria_51
+  - first:
+      213: -7122733578207310846
+    second: Sprite de moneda dorada giratoria_52
+  - first:
+      213: -8519296305777100482
+    second: Sprite de moneda dorada giratoria_53
+  - first:
+      213: 1291722464493824126
+    second: Sprite de moneda dorada giratoria_54
+  - first:
+      213: 5200168840819479901
+    second: Sprite de moneda dorada giratoria_55
+  - first:
+      213: -3088671131182877923
+    second: Sprite de moneda dorada giratoria_56
+  - first:
+      213: -6296942563014744693
+    second: Sprite de moneda dorada giratoria_57
+  - first:
+      213: -4902199662441063567
+    second: Sprite de moneda dorada giratoria_58
+  - first:
+      213: 3054397717665835702
+    second: Sprite de moneda dorada giratoria_59
+  - first:
+      213: -2158001431728100157
+    second: Sprite de moneda dorada giratoria_60
+  - first:
+      213: -8828129415136452232
+    second: Sprite de moneda dorada giratoria_61
+  - first:
+      213: 3561591401293238366
+    second: Sprite de moneda dorada giratoria_62
+  - first:
+      213: 3771642832576406805
+    second: Sprite de moneda dorada giratoria_63
+  - first:
+      213: 7260305102198774050
+    second: Sprite de moneda dorada giratoria_64
+  - first:
+      213: -3814629496271297901
+    second: Sprite de moneda dorada giratoria_65
+  - first:
+      213: -6865900912232106887
+    second: Sprite de moneda dorada giratoria_66
+  - first:
+      213: -5946705754491623548
+    second: Sprite de moneda dorada giratoria_67
+  - first:
+      213: 7051145667458030658
+    second: Sprite de moneda dorada giratoria_68
+  - first:
+      213: 8192137183678114241
+    second: Sprite de moneda dorada giratoria_69
+  - first:
+      213: 869331060762601824
+    second: Sprite de moneda dorada giratoria_70
+  - first:
+      213: -5544894161260266654
+    second: Sprite de moneda dorada giratoria_71
+  - first:
+      213: 3581674663805363478
+    second: Sprite de moneda dorada giratoria_72
+  - first:
+      213: -7292835491479030700
+    second: Sprite de moneda dorada giratoria_73
+  - first:
+      213: -2740205174259152681
+    second: Sprite de moneda dorada giratoria_74
+  - first:
+      213: 1982132847197639249
+    second: Sprite de moneda dorada giratoria_75
+  - first:
+      213: 896993033823081306
+    second: Sprite de moneda dorada giratoria_76
+  - first:
+      213: -8086463258581311727
+    second: Sprite de moneda dorada giratoria_77
+  - first:
+      213: -7930685754294243149
+    second: Sprite de moneda dorada giratoria_78
+  - first:
+      213: 465971582015012386
+    second: Sprite de moneda dorada giratoria_79
+  - first:
+      213: -2110505342260222091
+    second: Sprite de moneda dorada giratoria_80
+  - first:
+      213: -3138150456208527672
+    second: Sprite de moneda dorada giratoria_81
+  - first:
+      213: -4696258944305544994
+    second: Sprite de moneda dorada giratoria_82
+  - first:
+      213: -8036518747361738849
+    second: Sprite de moneda dorada giratoria_83
+  - first:
+      213: -1719688383286804222
+    second: Sprite de moneda dorada giratoria_84
+  - first:
+      213: 2705244976503909923
+    second: Sprite de moneda dorada giratoria_85
+  - first:
+      213: 7271948814819443011
+    second: Sprite de moneda dorada giratoria_86
+  - first:
+      213: 8861457437014596338
+    second: Sprite de moneda dorada giratoria_87
+  - first:
+      213: 630803780086909293
+    second: Sprite de moneda dorada giratoria_88
+  - first:
+      213: -5955399887184890246
+    second: Sprite de moneda dorada giratoria_89
+  - first:
+      213: -6581519450238267282
+    second: Sprite de moneda dorada giratoria_90
+  - first:
+      213: 2022846845986311284
+    second: Sprite de moneda dorada giratoria_91
+  - first:
+      213: 5924071033145212411
+    second: Sprite de moneda dorada giratoria_92
+  - first:
+      213: 6669324313342002359
+    second: Sprite de moneda dorada giratoria_93
+  - first:
+      213: -6634530497467823898
+    second: Sprite de moneda dorada giratoria_94
+  - first:
+      213: 4976302171151018547
+    second: Sprite de moneda dorada giratoria_95
+  - first:
+      213: 7267986012337708419
+    second: Sprite de moneda dorada giratoria_96
+  - first:
+      213: -5171541759611193189
+    second: Sprite de moneda dorada giratoria_97
+  - first:
+      213: -6778117114557383306
+    second: Sprite de moneda dorada giratoria_98
+  - first:
+      213: -6089336012624410738
+    second: Sprite de moneda dorada giratoria_99
+  - first:
+      213: -2344175061925832494
+    second: Sprite de moneda dorada giratoria_100
+  - first:
+      213: 2850235573118081724
+    second: Sprite de moneda dorada giratoria_101
+  - first:
+      213: -5829724478273774533
+    second: Sprite de moneda dorada giratoria_102
+  - first:
+      213: -401616482448295401
+    second: Sprite de moneda dorada giratoria_103
+  - first:
+      213: 4963719886504568721
+    second: Sprite de moneda dorada giratoria_104
+  - first:
+      213: -8966897413920771983
+    second: Sprite de moneda dorada giratoria_105
+  - first:
+      213: -7228175792675870334
+    second: Sprite de moneda dorada giratoria_106
+  - first:
+      213: 1894732975633223521
+    second: Sprite de moneda dorada giratoria_107
+  - first:
+      213: -5869239013914747470
+    second: Sprite de moneda dorada giratoria_108
+  - first:
+      213: 4378127570194210252
+    second: Sprite de moneda dorada giratoria_109
+  - first:
+      213: 1881240612813108413
+    second: Sprite de moneda dorada giratoria_110
+  - first:
+      213: -9001040678862474562
+    second: Sprite de moneda dorada giratoria_111
+  - first:
+      213: 2401216563540497635
+    second: Sprite de moneda dorada giratoria_112
+  - first:
+      213: 2956144620258585929
+    second: Sprite de moneda dorada giratoria_113
+  - first:
+      213: 1794515315784790921
+    second: Sprite de moneda dorada giratoria_114
+  - first:
+      213: -5510586744528012543
+    second: Sprite de moneda dorada giratoria_115
+  - first:
+      213: 1786788660747267384
+    second: Sprite de moneda dorada giratoria_116
+  - first:
+      213: -2669701787210523918
+    second: Sprite de moneda dorada giratoria_117
+  - first:
+      213: -1676548984363332778
+    second: Sprite de moneda dorada giratoria_118
+  - first:
+      213: -410310467374934562
+    second: Sprite de moneda dorada giratoria_119
+  - first:
+      213: 8680418134761164775
+    second: Sprite de moneda dorada giratoria_120
+  - first:
+      213: -7971063624013751413
+    second: Sprite de moneda dorada giratoria_121
+  - first:
+      213: 3478149829818279973
+    second: Sprite de moneda dorada giratoria_122
+  - first:
+      213: 8095708157635990713
+    second: Sprite de moneda dorada giratoria_123
+  - first:
+      213: 7461827693201866639
+    second: Sprite de moneda dorada giratoria_124
+  - first:
+      213: -7330808796532367928
+    second: Sprite de moneda dorada giratoria_125
+  - first:
+      213: 2756272608029388370
+    second: Sprite de moneda dorada giratoria_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 928
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.60428226, y: 0.363999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd2e5191142a61b0800000000000000
+      internalID: -5662673923593065001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 928
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.3892005, y: 0.37079874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64140cd17f6471150800000000000000
+      internalID: 5843217068706513222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6890116, y: 0.4727997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d1dc6c3e7d9bf0800000000000000
+      internalID: -315957600857239426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 628
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5716941, y: 0.4795998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbd5b59f93bb2f0800000000000000
+      internalID: -956106752743589000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 628
+        width: 313
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fa503eded5aff70800000000000000
+      internalID: 9221786463291944801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6107999, y: 0.5544006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871934d5bb4806130800000000000000
+      internalID: 3557989645881151864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 328
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5260707, y: 0.5476006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ca18df14b341420800000000000000
+      internalID: 2599768039511665791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 328
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4152711, y: 0.57480085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ca2c1441846d40800000000000000
+      internalID: 5576724368121841092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 328
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.38268262, y: 0.57480085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684f33393d2c75170800000000000000
+      internalID: 8167210663223227526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6759763, y: 0.581601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce4599f4c1f9d020800000000000000
+      internalID: 2367188907463102153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 28
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.6156013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d773e2d2af302d890800000000000000
+      internalID: -7434875661800556675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 28
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.4804473, y: 0.6020012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280633b9290890270800000000000000
+      internalID: 8217240362271596674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_15
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 28
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.39445403, y: 0.6165968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eada31037cc7c70800000000000000
+      internalID: 8970263567117692466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 928
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.6499057, y: 0.363999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa7e1bfca65e84085db30ad4ccb631
+      internalID: 5988192070273586573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_3
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 928
+        width: 313
+        height: 300
+      alignment: 9
+      pivot: {x: 0.45437652, y: 0.37079874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7978e2b4de1abce4181dec075cc6ae0a
+      internalID: -2014180044113002599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite de moneda dorada giratoria_6
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 628
+        width: 313
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27729dc77e37f6b43a40c21f4947ddb3
+      internalID: -5730398358248055130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7792e082ee83a304e83e360c7eaeb79d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":313.0,"y":300.0},"gridSpriteOffset":{"x":0.0,"y":26.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sprite de moneda dorada giratoria_0: 5988192070273586573
+      Sprite de moneda dorada giratoria_1: -5662673923593065001
+      Sprite de moneda dorada giratoria_10: 5576724368121841092
+      Sprite de moneda dorada giratoria_11: 8167210663223227526
+      Sprite de moneda dorada giratoria_12: 2367188907463102153
+      Sprite de moneda dorada giratoria_13: -7434875661800556675
+      Sprite de moneda dorada giratoria_14: 8217240362271596674
+      Sprite de moneda dorada giratoria_15: 8970263567117692466
+      Sprite de moneda dorada giratoria_2: 5843217068706513222
+      Sprite de moneda dorada giratoria_3: -2014180044113002599
+      Sprite de moneda dorada giratoria_4: -315957600857239426
+      Sprite de moneda dorada giratoria_5: -956106752743589000
+      Sprite de moneda dorada giratoria_6: -5730398358248055130
+      Sprite de moneda dorada giratoria_7: 9221786463291944801
+      Sprite de moneda dorada giratoria_8: 3557989645881151864
+      Sprite de moneda dorada giratoria_9: 2599768039511665791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
