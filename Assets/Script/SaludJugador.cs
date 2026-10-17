@@ -32,7 +32,7 @@ public class SaludJugador : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemigo"))
         {
-            RecibirDano(collision.transform.position);
+            RecibirDano(collision.transform);
         }
     }
 
@@ -41,16 +41,16 @@ public class SaludJugador : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemigo"))
         {
-            RecibirDano(collision.transform.position);
+            RecibirDano(collision.transform);
         }
     }
 
-    void RecibirDano(Vector2 posicionEnemigo)
+    public void RecibirDano(Transform posicionEnemigo, int cantidadDano=1)
     {
         // Si es invulnerable, ignora el golpe
         if (invulnerable) return;
 
-        vidas--;
+        vidas-= cantidadDano;
         animador.SetTrigger("Golpe");
 
         // Sin vidas: reinicia el nivel
@@ -61,7 +61,7 @@ public class SaludJugador : MonoBehaviour
         }
 
         // Empuja al jugador lejos del enemigo
-        float direccion = transform.position.x > posicionEnemigo.x ? 1f : -1f;
+        float direccion = transform.position.x > posicionEnemigo.position.x ? 1f : -1f;
         cuerpoRigido.linearVelocity = new Vector2(direccion * fuerzaRechazoX, fuerzaRechazoY);
 
         StartCoroutine(RutinaDano());
